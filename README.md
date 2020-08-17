@@ -5,7 +5,7 @@ I enjoy building great software and helping others do the same.
 
 [![Email jlavm](https://img.shields.io/badge/Email-koke1701%40gmail.com-success?style=for-the-badge)](mailto:koke1701@gmail.com)
 <br>
-[![Website jlavm](https://img.shields.io/badge/Website-jlavm.io-green?style=for-the-badge)](https://jlavm.io/)
+[![Website jlavm](https://img.shields.io/badge/Website-jlavm.io-green?style=for-the-badge)](https://jlavm.github.io/)
 [![Twitter jlavm](https://img.shields.io/badge/Twitter-koke0117-9cf?style=for-the-badge)](https://twitter.com/koke0117)
 [![LinkedIn jlavm](https://img.shields.io/badge/Linkedin-%40jorgelavinmontoro-informational?style=for-the-badge)](https://www.linkedin.com/in/jorgelavinmontoro/)
 
